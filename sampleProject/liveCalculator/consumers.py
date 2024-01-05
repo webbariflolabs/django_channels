@@ -1,5 +1,3 @@
-#Topic - Consumer
-
 from channels.consumer import SyncConsumer , AsyncConsumer
 from channels.exceptions import StopConsumer
 
